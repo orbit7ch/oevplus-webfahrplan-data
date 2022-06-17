@@ -1,0 +1,106 @@
+{
+   "msg-response": {
+      "ereignisinformationen": {
+         "time": "2022-06-17T14:58:21Z",
+         "ereignisinformation": [
+            {
+               "titel": "Grandvaux, Crêt-Mouton und Grandvaux, Le Signal der Linie 381 nicht bedient",
+               "grund": "Grund: Bauarbeiten",
+               "dauer": "Dauer: 22.06.22, 07:00 - 24.06.22, 18:00",
+               "auswirkungen": {
+                  "auswirkung": [
+                     "Es ist mit Verspätungen und Ausfällen zu rechnen."
+                  ]
+               },
+               "empfehlungen": {
+                  "empfehlung": [
+                     "Wir empfehlen, kurz vor jeder Fahrt den Online-Fahrplan zu konsultieren"
+                  ]
+               },
+               "links": {
+                  "link": [
+                     {
+                        "_url": "https://www.PostAuto.ch",
+                        "__text": "Weiterführende Informationen"
+                     }
+                  ]
+               },
+               "text": "Grund: Bauarbeiten. Dauer: 22.06.22, 07:00 - 24.06.22, 18:00. Es ist mit Verspätungen und Ausfällen zu rechnen Wir empfehlen, kurz vor jeder Fahrt den Online-Fahrplan zu konsultieren.",
+               "perspektiven": {
+                  "perspektive": [
+                     "general",
+                     "stopPoint"
+                  ]
+               },
+               "betroffen": {
+                  "linie": [
+                     "85:801:206"
+                  ]
+               },
+               "_id": "ch:1:sstid:100001:2195003952814",
+               "_typ": "incident",
+               "_geltungsbereich": "stopPlace",
+               "_erstellungsDatum": "2022-06-17T15:23:58Z",
+               "_aktualisierungsDatum": "2022-06-17T15:23:58Z"
+            },
+            {
+               "titel": "Der Bahnverkehr auf der Strecke Visp - Zermatt GGB ist in beiden Richtungen zwischen Täsch und Zermatt eingeschränkt.",
+               "grund": "Der Grund dafür ist eine Streckenblockierung.",
+               "dauer": "Die Dauer der Einschränkung ist unbestimmt.",
+               "auswirkungen": {
+                  "auswirkung": [
+                     "Es ist mit Verspätungen und Ausfällen zu rechnen."
+                  ]
+               },
+               "empfehlungen": {
+                  "empfehlung": [
+                     "Wir empfehlen, kurz vor jeder Fahrt den Online-Fahrplan zu konsultieren"
+                  ]
+               },
+               "informationen": {
+                  "information": [
+                     "Betroffen sind die Linien R41, RE42 &amp; R40."
+                  ]
+               },
+               "links": {
+                  "link": [
+                     {
+                        "_url": "https://www.PostAuto.ch",
+                        "__text": "Weiterführende Informationen"
+                     }
+                  ]
+               },
+               "text": "Grund: Bauarbeiten. Dauer: 22.06.22, 07:00 - 24.06.22, 18:00. Es ist mit Verspätungen und Ausfällen zu rechnen Wir empfehlen, kurz vor jeder Fahrt den Online-Fahrplan zu konsultieren.",
+               "perspektiven": {
+                  "perspektive": [
+                     "stopPoint"
+                  ]
+               },
+               "betroffen": {
+                  "haltestelle": [
+                     "8501689",
+                     "8501689"
+                  ]
+               },
+               "_id": "ch:1:sstid:100602:prod:62ac9a41b3cb1f171512804e",
+               "_typ": "info",
+               "_geltungsbereich": "line",
+               "_erstellungsDatum": "2022-06-17T15:14:09Z",
+               "_aktualisierungsDatum": "2022-06-17T15:29:11Z"
+            }
+         ]
+      },
+      "stammdaten": {
+         "linien": {
+            "linie": [
+               {
+                  "_linienid": "85:801:206",
+                  "_text": "381",
+                  "_rgbfont": "#3c3c3b",
+                  "_rgbback": "#cd003c"
+               }
+            ]
+         }
+      }
+   }
+}
